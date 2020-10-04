@@ -4,7 +4,7 @@ An example of my personal photography portfolio spanning about 3 years.
 
 ### Black and White Photo
 
-![black and white photo](https://drive.google.com/file/d/1bc63PnOGdAMwVnIPNT7rk0JpRUA_4T-B/view?usp=sharing)
+![black and white photo](https://drive.google.com/drive/u/0/recent)
 
 ### Landscape Photo
 
