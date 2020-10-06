@@ -8,7 +8,7 @@ An example of my personal photography portfolio spanning about 3 years.
 
 ### Landscape Photo
 
-![black and white photo](https://drive.google.com/file/d/1YKlEemYE97nRsQgamugR_nR9LIWYhKMw/view?usp=sharing)
+![black and white photo](neighborhood pink.jpg)
 
 ### Support or Contact
 
