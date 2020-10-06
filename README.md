@@ -4,11 +4,11 @@ An example of my personal photography portfolio spanning about 3 years.
 
 ### Black and White Photo
 
-![black and white photo](Black and White-3.jpg)
+! [black and white photo] (Black and White-3.jpg)
 
 ### Landscape Photo
 
-![black and white photo](neighborhood pink.jpg)
+! [black and white photo] (neighborhood pink.jpg)
 
 ### Support or Contact
 
