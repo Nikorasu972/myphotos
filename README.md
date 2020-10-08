@@ -4,12 +4,12 @@ An example of my personal photography portfolio spanning about 3 years.
 
 ### Black and White Photo
 
-![black and white photo](Black and White-3.jpg)
+![black and white photo](https://raw.githubusercontent.com/Nikorasu972/myphotos/main/Black%20and%20White-3.jpg)
 
 ### Landscape Photo
 
 ![Landscpe Photo](https://raw.githubusercontent.com/Nikorasu972/myphotos/main/neighborhood%20pink.jpg)
 
-### Support or Contact
+### My Other Website
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to see more of my photography? Check out my other website at https://nikorasu972.wixsite.com/mysite-1.
