@@ -8,7 +8,7 @@ An example of my personal photography portfolio spanning about 3 years.
 
 ### Landscape Photo
 
-![black and white photo](neighborhood pink.jpg)
+![Landscpe Photo](https://raw.githubusercontent.com/Nikorasu972/myphotos/main/neighborhood%20pink.jpg)
 
 ### Support or Contact
 
