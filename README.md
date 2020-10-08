@@ -12,4 +12,4 @@ An example of my personal photography portfolio spanning about 3 years.
 
 ### My Other Website
 
-Want to see more of my photography? Check out my other website at https://nikorasu972.wixsite.com/mysite-1.
+Want to see more of my photography? Check out my other website of my (portfolio)[https://nikorasu972.wixsite.com/mysite-1].
